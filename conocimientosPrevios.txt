@@ -1,1 +1,2 @@
 Curso introductorio a DataScience (python, tableau, SQL & machine learning)
+Curso introductorio a Python
